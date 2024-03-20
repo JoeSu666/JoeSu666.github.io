@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Background"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-## CV
+## Resume
 
-Download my complete [CV](https://drive.google.com/file/d/10VW_fbsm9gWtIulCEbTaZGGnarX_4bjE/view?usp=drive_link).
+Download my [resume](https://drive.google.com/file/d/1XK1q2ouqtqP2gyZy_v2reJNQ5pvnDDHx/view?usp=sharing).
 
 ## Education
 * B.S. in Electronic&Information Science, Shandong University, 2018
@@ -27,7 +27,7 @@ PyTorch, TensorFlow, Scikit-learn, OpenCV, Pandas, Slurm, Google Cloud, HPC Envi
 * Predicting obstructive sleep apnea severity from craniofacial images using ensemble machine learning models. (poster). SPIE Medical Imaging 2023: Computer-Aided Diagnosis. Feb 19, 2023. 
 
 ## Academic services
-Journal reviewer for IEEE Journal of Biomedical and Health Informatics, and Quantitative Imaging in Medicine and Surgery     
+Journal reviewer for IEEE Journal of Biomedical and Health Informatics, International Journal of Intelligent Systems, Computerized Medical Imaging and Graphics, etc.     
 
 ## Honors and awards
 * Top scientific papers of the year (doi: 10.1016/j.media.2022.102462), Internal Medicine Research Day Grand Rounds, WFUSOM-Atrium Health, USA, 2023
